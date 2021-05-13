@@ -1,4 +1,3 @@
-package finals.proglab;
 import java.util.Random;
 
 public class randomnumber {
