@@ -1,4 +1,3 @@
-package parking.system;
 import java.util.Scanner;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
@@ -52,7 +51,7 @@ public class ParkingSystem {
         
         do 
         {
-            System.out.print("\n\t  ============================== Welcome to Kalm Parking Lot ==============================");
+            System.out.print("\n\t  ============================== Welcome to KALM Parking Lot ==============================");
             System.out.print("\n\n\t\t\t\t\t[1] Customer\t[2] Operator\n\t\t\t\t\t[3] Exit\n\n\t\t\t\t\t Choice : ");
             choice = myinp.nextInt();
             //Customer
